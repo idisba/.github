@@ -1,4 +1,5 @@
 # Github Bioinformàtica IdISBa
+<body style="background-color:powderblue;">
 
 * Repositori celfiles
 * Aplicacions
@@ -10,4 +11,4 @@
  https://www.idisba.es/cat
  
  https://bioinfo.conectabalear.net/rstudio/
- <b> A </b>
+ 
