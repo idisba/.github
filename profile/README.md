@@ -6,7 +6,9 @@
   * Graphomics
   * FunIntegrer
   * We 'R' Nets
-* https://www.idisba.es/cat
-* https://bioinfo.conectabalear.net/rstudio/
+
+ https://www.idisba.es/cat
+ 
+ https://bioinfo.conectabalear.net/rstudio/
 
 
