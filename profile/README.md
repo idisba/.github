@@ -2,6 +2,8 @@
 
 <html>
 
+<body style="background-color:#FF0000;">
+
 # Github Bioinformàtica IdISBa
 <body style="background-color:powderblue;">
 
