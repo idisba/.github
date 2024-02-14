@@ -1,3 +1,4 @@
+<html>
 # Github Bioinformàtica IdISBa
 <body style="background-color:powderblue;">
 
@@ -13,3 +14,4 @@
  https://bioinfo.conectabalear.net/rstudio/
  
 </body>
+</html>
