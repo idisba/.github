@@ -6,7 +6,7 @@
 @@ text in purple (and bold)@@
 ```
 
-# Github Bioinformàtica IdISBa
+-# Github Bioinformàtica IdISBa
 
 - 
 * Repositori celfiles
