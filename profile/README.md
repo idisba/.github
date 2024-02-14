@@ -9,7 +9,7 @@
 
 * Repositori celfiles
 * Aplicacions
-  * -StatRadaR
+  * StatRadaR
   * Graphomics
   * FunIntegrer
   * We 'R' Nets
