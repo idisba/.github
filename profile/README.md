@@ -1,5 +1,13 @@
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
+
 # Github Bioinformàtica IdISBa
-![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) `#f03c15`
+
 - 
 * Repositori celfiles
 * Aplicacions
