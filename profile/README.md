@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 
 <html>
-
-<body style="background-color👱‍♂️;">
+👱‍♂️
+<body style="background-color;">
 
 # Github Bioinformàtica IdISBa
 <body style="background-color:powderblue;">
