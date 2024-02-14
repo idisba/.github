@@ -1,6 +1,11 @@
 ## GitHub Bioinformàtica IdISBa
 
--  Celfiles Disponibles
+-  Celfiles disponibles
+-  Aplicacions bioinformàtiques
+  - StatRadaR
+  - Graphomics
+  - FunIntegrer
+  - We 'R' Correlated!
 <!--
 
 **Here are some ideas to get you started:**
